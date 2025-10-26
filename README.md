@@ -2,11 +2,11 @@
 
 Sticker designs inspired by the **Department of Social Statistics** at the **University of Manchester**, featuring the iconic **Manchester bee** 🐝.
 
-<img src="sticker/socialstats_hex.png" alt="StatBee Sticker" width="250" align="right" />
-
 ---
 
 ## 🎨 Overview
+
+<img src="sticker/socialstats_hex.png" alt="StatBee Sticker" width="250" align="right" />
 
 This R project creates a custom **hex sticker** that follows the University of Manchester’s brand colours:
 
